@@ -27,6 +27,7 @@ gaianet start
 ```
 gaianet info
 ```
+https://www.gaianet.ai/setting/nodes
 # 8. Balik ke home screen
 ```
 CTRL+A+D di Keyboard
