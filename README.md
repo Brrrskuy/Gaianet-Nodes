@@ -13,6 +13,9 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 # 3. Copy 'source sampe tanda petik trus enter'
 ![image](https://github.com/user-attachments/assets/4bf8fe53-ac7a-4937-8f8d-5ba1f2cdbb61)
 Contoh source/user/.../ copy di foto paste ke command
+```
+source /root/.bashrc
+```
 # 4. Next step
 ``` 
 gaianet init
