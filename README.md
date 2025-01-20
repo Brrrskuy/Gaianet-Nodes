@@ -24,10 +24,10 @@ gaianet start
 # 6. Copy https://0x.....gaia.domains to your browser
 ![image](https://github.com/user-attachments/assets/36912546-3be0-4256-9c5f-5234ab723ed4)
 # 7. Get info and pergi ke Setting di Profile Connect Nodes
+https://www.gaianet.ai/setting/nodes
 ```
 gaianet info
 ```
-https://www.gaianet.ai/setting/nodes
 # 8. Balik ke home screen
 ```
 CTRL+A+D di Keyboard
