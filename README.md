@@ -41,6 +41,7 @@ https://www.gaianet.ai/setting/nodes
 CTRL+A+D di Keyboard
 ```
 # 10. Stop Nodes
+Jika sudah ingin di OFFin Nodesnya
 ```
 gaianet stop
 ```
