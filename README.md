@@ -1,6 +1,6 @@
 # Gaianet-Nodes Guides 
 
-- Buy VPS di : t.me/skuycloud
+- Buy VPS di : [t.me/skuycloud](t.me/skuycloud)
 
 # 1. Buat screen
 ```
